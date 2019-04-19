@@ -1,5 +1,5 @@
-.DS_STORE
-*node_modules
+DS_STORE
+frontend/node_modules
 *~
 *.log*
 .vscode
